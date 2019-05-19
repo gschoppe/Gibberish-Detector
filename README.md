@@ -1,4 +1,4 @@
-#Gibberish Detector
+# Gibberish Detector
 [Demo Page](https://gschoppe.com/projects/gibberish/) | [Training Output](https://gschoppe.com/projects/gibberish/train.php)
 
 I originally built this gibberish detector in 2013, as a challenge. I had toyed
